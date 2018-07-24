@@ -1,18 +1,34 @@
 {
-  "name": "react_echarts",
+  "name": "React-Echarts-Wrapper",
   "version": "1.0.0",
-  "description": "",
+  "description": "An Echarts wrapper component for react ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bugs": {
+    "url": "https://github.com/lyhmyd1211/React-Echarts-Wrapper/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lyhmyd1211/React-Echarts-Wrapper.git"
+  },
+  "keywords": [
+    "react",
+    "echarts-react",
+    "react-echarts",
+    "echarts",
+    "charts",
+    "react-wrapper",
+    "echarts-wrapper"
+  ],
   "directories": {
     "lib": "lib"
   },
   "files": [
     "dist"
   ],
-  "author": "",
+  "author": "Ehame Lu",
   "license": "ISC",
   "dependencies": {
     "babel-cli": "^6.26.0",
