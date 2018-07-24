@@ -1,6 +1,6 @@
 {
-  "name": "Echarts-Wrapper",
-  "version": "1.0.0",
+  "name": "echarts-wrapper",
+  "version": "1.0.1",
   "description": "An Echarts wrapper component for react ",
   "main": "index.js",
   "scripts": {

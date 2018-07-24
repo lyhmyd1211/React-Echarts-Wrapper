@@ -1,17 +1,17 @@
-# Echarts-Wrapper
+# echarts-wrapper
 An Echarts wrapper component for react
 
 
 ## Install
 
 ```
-npm i Echarts-Wrapper
+npm i echarts-wrapper
 ```
 
 or
 
 ```
-yarn add Echarts-Wrapper
+yarn add echarts-wrapper
 ```
 
 
@@ -20,7 +20,7 @@ yarn add Echarts-Wrapper
 First import into the project:
 
 ```
-import Echarts from 'Echarts-Wrapper';
+import Echarts from 'echarts-wrapper';
 ```
 Used is JSX:
 
